@@ -8,10 +8,10 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 # I started a AWS Data User Group Bangalore Meetup - We have around 300+ Members
 
-[![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/aws-data-user-group-bangalore)
+[![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)][(https://www.meetup.com/aws-data-user-group-bangalore)]
 
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)]
-(https://www.linkedin.com/company/aws-data-user-group-bangalore)
+[(https://www.linkedin.com/company/aws-data-user-group-bangalore)]
 
 <br />
 <div align="left">

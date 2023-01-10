@@ -48,6 +48,11 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 
 ## Connect with me  
+
+<div align="left">
+    <img src="https://raw.githubusercontent.com/aws-data-usergroup-bangalore/aws-dugb-images/main/AJ_Headshot.jpg" width="300">
+</div>
+
 <a href="https://github.com/jayyanar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>

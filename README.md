@@ -32,7 +32,7 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 
 - [Introduction](https://youtu.be/2vwrEhj7bGg)
-- [QuickView of DevOps and its Benefits](https://youtu.be/zXxFQZ-xwdA)
+- [QuickView of DevOps and its Benefits](https://youtu.be/NJEWABKc9v0)
 - [What is MLOps](https://youtu.be/WBn_xOmT4xc)
 - [MLops Advantages and Its benefits](https://youtu.be/RNl-gXDrCoU)
 - [Machine Learning Lifecycle and Personas and Technology Involved](https://youtu.be/8Q9ftmHx1aA)

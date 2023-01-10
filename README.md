@@ -25,7 +25,7 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 - [What is new in AWS DataExchange](https://dev.to/jayyanar/what-is-new-in-aws-dataexchange-3pfh)
 - [Will ChatGPT replace Google Search Now](https://dev.to/jayyanar/will-chatgpt-replace-google-search-now-49p7)
 - [Improve Productivity Using CodeCatalyst](https://dev.to/jayyanar/improve-productivity-using-codecatalyst-4lj9)
-- [Opensearch Going Serverless](https://medium.com/@jayyanar/new-announcement-from-aws-reinvent-2022-elasticsearch-going-serverless-1f475ffee98b)
+- [Amazon Opensearch Going Serverless](https://medium.com/@jayyanar/new-announcement-from-aws-reinvent-2022-elasticsearch-going-serverless-1f475ffee98b)
 
 # MLOps with AWS Sagemaker Training Videos - Week 1
  Participants Counts - 207

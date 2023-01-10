@@ -31,7 +31,7 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
  Participants Counts - 207
 
 
-- [Introduction](https://youtu.be/pvIgAj3XSag)
+- [Introduction](https://youtu.be/2vwrEhj7bGg)
 - [QuickView of DevOps and its Benefits](https://youtu.be/zXxFQZ-xwdA)
 - [What is MLOps](https://youtu.be/WBn_xOmT4xc)
 - [MLops Advantages and Its benefits](https://youtu.be/RNl-gXDrCoU)

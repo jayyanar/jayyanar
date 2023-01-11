@@ -44,8 +44,8 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 - [Sagemaker Highlevel Understanding and Sagemaker Lifecycle](https://youtu.be/lGIygawCeZs)
 - [MLOPS with Sagemaker - Reference Architecture](https://youtu.be/HN7Fan05bDg)
 - [Setup Terraform](https://youtu.be/sAY7vJUSzBQ)
-- [Create Sagemaker Studio - Domain, Userprofile](https://youtu.be/sAY7vJUSzBQ)
-- [Test Sagemaker Pipeline from SageMaker studio](https://youtu.be/sAY7vJUSzBQ)
+- [Create Sagemaker Studio - Domain, Userprofile](https://youtu.be/ugygwgQlJhA)
+- [Test Sagemaker Pipeline from SageMaker studio](https://youtu.be/_LAIYh2Pf8k)
 
 
 

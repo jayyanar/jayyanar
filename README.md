@@ -10,6 +10,8 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 [![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)][(https://www.meetup.com/aws-data-user-group-bangalore)]
 
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)]
+[(https://www.linkedin.com/company/aws-data-user-group-bangalore)]
 
 <br />
 <div align="left">
@@ -19,7 +21,7 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 # Shared all training / session materials here at YouTube for community members.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/watch?v=2vwrEhj7bGg&list=PLh_VNk4-EHTOofHChpNXmzccaQqB6k76C)
 
 # Blog in Dev.to and Medium
 
@@ -28,6 +30,7 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 - [Will ChatGPT replace Google Search Now](https://dev.to/jayyanar/will-chatgpt-replace-google-search-now-49p7)
 - [Improve Productivity Using CodeCatalyst](https://dev.to/jayyanar/improve-productivity-using-codecatalyst-4lj9)
 - [Amazon Opensearch Going Serverless](https://medium.com/@jayyanar/new-announcement-from-aws-reinvent-2022-elasticsearch-going-serverless-1f475ffee98b)
+- [AWS Sagemaker Geospatial Potentially Saved Fraud](https://medium.com/@jayyanar/aws-sagemaker-geospatial-potentially-saved-fraud-4ad9aa728e13)
 
 # MLOps with AWS Sagemaker Training Videos - Week 1
  Participants Counts - 207

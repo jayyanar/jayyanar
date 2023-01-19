@@ -30,14 +30,6 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/watch?v=2vwrEhj7bGg&list=PLh_VNk4-EHTOofHChpNXmzccaQqB6k76C)
 
-# Blog in Dev.to and Medium
-
-- [What is new in AWS QuickSights](https://dev.to/jayyanar/what-is-new-in-aws-quicksights-465d)
-- [What is new in AWS DataExchange](https://dev.to/jayyanar/what-is-new-in-aws-dataexchange-3pfh)
-- [Will ChatGPT replace Google Search Now](https://dev.to/jayyanar/will-chatgpt-replace-google-search-now-49p7)
-- [Improve Productivity Using CodeCatalyst](https://dev.to/jayyanar/improve-productivity-using-codecatalyst-4lj9)
-- [Amazon Opensearch Going Serverless](https://medium.com/@jayyanar/new-announcement-from-aws-reinvent-2022-elasticsearch-going-serverless-1f475ffee98b)
-- [AWS Sagemaker Geospatial Potentially Saved Fraud](https://medium.com/@jayyanar/aws-sagemaker-geospatial-potentially-saved-fraud-4ad9aa728e13)
 
 # MLOps with AWS Sagemaker Training Videos - Week 1
  Participants Counts - 207
@@ -56,6 +48,14 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 - [Test Sagemaker Pipeline from SageMaker studio](https://youtu.be/_LAIYh2Pf8k)
 
 
+# Blog in Dev.to and Medium
+
+- [What is new in AWS QuickSights](https://dev.to/jayyanar/what-is-new-in-aws-quicksights-465d)
+- [What is new in AWS DataExchange](https://dev.to/jayyanar/what-is-new-in-aws-dataexchange-3pfh)
+- [Will ChatGPT replace Google Search Now](https://dev.to/jayyanar/will-chatgpt-replace-google-search-now-49p7)
+- [Improve Productivity Using CodeCatalyst](https://dev.to/jayyanar/improve-productivity-using-codecatalyst-4lj9)
+- [Amazon Opensearch Going Serverless](https://medium.com/@jayyanar/new-announcement-from-aws-reinvent-2022-elasticsearch-going-serverless-1f475ffee98b)
+- [AWS Sagemaker Geospatial Potentially Saved Fraud](https://medium.com/@jayyanar/aws-sagemaker-geospatial-potentially-saved-fraud-4ad9aa728e13)
 
 
 ## Connect with me  

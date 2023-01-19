@@ -57,6 +57,10 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 - [Amazon Opensearch Going Serverless](https://medium.com/@jayyanar/new-announcement-from-aws-reinvent-2022-elasticsearch-going-serverless-1f475ffee98b)
 - [AWS Sagemaker Geospatial Potentially Saved Fraud](https://medium.com/@jayyanar/aws-sagemaker-geospatial-potentially-saved-fraud-4ad9aa728e13)
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayyanar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 
 ## Connect with me  
 

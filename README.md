@@ -32,9 +32,9 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 
 # MLOps with AWS Sagemaker Training Videos
- Participants Counts Session 1 - 207
- Participants Counts Session 2 - 93
- Participants Counts Session 3 - 53
+ - Participants Counts Session 1 - 207
+ - Participants Counts Session 2 - 93
+ - Participants Counts Session 3 - 53
 
 
 - [Introduction](https://youtu.be/2vwrEhj7bGg)

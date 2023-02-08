@@ -53,8 +53,8 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 # My Presentation in Other Conferences and Events.
 
 - Machine Learning Meetup @NVidia
-- - https://www.meetup.com/bangalore-ai-tech-talks/events/290561644/ 
-- - Deploy MultiModel using Nvidia Triton Inference Server using AWS Sagemaker
+  - https://www.meetup.com/bangalore-ai-tech-talks/events/290561644/ 
+  - Deploy MultiModel using Nvidia Triton Inference Server using AWS Sagemaker
 
 # Blog in Dev.to and Medium
 

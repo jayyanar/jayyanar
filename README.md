@@ -22,7 +22,7 @@ I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Le
 
 <br />
 <div align="left">
-    <img src="https://raw.githubusercontent.com/aws-data-usergroup-bangalore/aws-dugb-images/main/aws-dugb.png" width="300">
+    <img src="https://github.com/cloudnloud-genai-labs/logos-common/blob/main/Screenshot%202023-06-27%20at%2011.03.18%20PM.png" width="300">
 </div>
 
 

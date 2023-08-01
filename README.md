@@ -6,6 +6,8 @@ I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with pe
 
 I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Level 2 Certified
 
+![image title](https://rushter.com/counter.svg)
+
 # I started a  Cloudnloud Data/Gen AI/ML Labs India with 1100 Members and Counting..
 
 <a href="https://www.meetup.com/cloudnloud-genai-labs/" target="_blank">

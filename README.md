@@ -1,37 +1,40 @@
 I'm **[Ayyanar Jeyakrishnan](https://www.linkedin.com/in/jayyanar/)** ; aka **AJ**. 
 
-I  started my career as humble Hardware and Networking engineer in 2005, Over the last 17 years in my IT Career, I have worked as Wintel, Linux Middleware Engineer, Infrastructure Architect, Cloud Solution Architect, Bigdata Manager, DevOps Leads, and DataPlatform Lead Engineer. I worked in Europe, Canada, and the US for a brief period of time.
+With over 18 years of dedicated IT expertise, I bring a wealth of experience coupled with strong analytical and technical leadership skills to the table.
 
-I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
+As a strategic thinker, my focus is always on the long-term goals, and I thrive in collaborative environments, working closely with diverse stakeholders, including CXOs, technology leaders, and executive teams.
 
-I have 50+ Technical Certification in AWS, Azure, IBM Cloud, CKA/CKAD,  TOGAF Level 2 Certified
+My professional journey has been characterized by hands-on, in-depth involvement in cutting-edge fields such as DevOps, Cloud Computing, Big Data, Machine Learning, and Artificial Intelligence. This comprehensive knowledge allows me to adapt and innovate in an ever-evolving tech landscape.
+
+Beyond my day-to-day responsibilities, I'm passionate about knowledge sharing. I've had the privilege of serving as a speaker, delivering tech talks and workshops on a wide range of topics at conferences and meet-ups. Some of my favorite subjects to discuss include Generative AI, MLOps, DevOps, Cloud, and Platform Engineering.
+
+I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 
 ![image title](https://rushter.com/counter.svg)
 
-# I started a  Cloudnloud Data/Gen AI/ML Labs India with 1100 Members and Counting..
+# I started a  DataOps Labs Meetup group to share my knowledge and other people to share their experience with 1350 Members and Counting..
 
-<a href="https://www.meetup.com/cloudnloud-genai-labs/" target="_blank">
+<a href="https://www.meetup.com/dataopslabs/" target="_blank">
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
 </a>
 
 
-# I started a Cloudnloud Data/Gen AI/ML Labs India Linkedin Page with Around 1200+ Followers
+# I started a DataOps Labs India Linkedin Page with Around 1300+ Followers
 
-<a href="https://www.linkedin.com/company/89903812/admin/feed/posts/" target="_blank">
+<a href="https://www.linkedin.com/company/dataopslabs-india/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 
 <br />
 <div align="left">
-    <img src="https://github.com/cloudnloud-genai-labs/logos-common/blob/main/Screenshot%202023-06-27%20at%2011.03.18%20PM.png" width="300">
+    <img src="https://github.com/dataopslabs/logo-images/blob/c595c294170c5ec402af005ca42b87737107f755/logo_dataopslabs_caption.png" width="300">
 </div>
 
 
 # Shared all training / session materials here at YouTube for community members.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/watch?v=2vwrEhj7bGg&list=PLh_VNk4-EHTOofHChpNXmzccaQqB6k76C)
-
+https://www.youtube.com/@DataOpsLabsIndia
 
 # MLOps with AWS Sagemaker Training Videos
  - Participants Counts Session 1 - 207

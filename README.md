@@ -1,6 +1,6 @@
 I'm **[Ayyanar Jeyakrishnan](https://www.linkedin.com/in/jayyanar/)** ; aka **AJ**. 
 
-With over 18 years of dedicated IT expertise, I bring a wealth of experience coupled with strong analytical and technical leadership skills to the table.
+With over 20 years of dedicated IT expertise, I bring a wealth of experience coupled with strong analytical and technical leadership skills to the table.
 
 As a strategic thinker, my focus is always on the long-term goals, and I thrive in collaborative environments, working closely with diverse stakeholders, including CXOs, technology leaders, and executive teams.
 
@@ -12,7 +12,7 @@ I look forward to connecting with like-minded professionals and exploring opport
 
 ![image title](https://rushter.com/counter.svg)
 
-# I started a  DataOps Labs Meetup group to share my knowledge and other people to share their experience with 1350 Members and Counting..
+# I started a  DataOps Labs Meetup group to share my knowledge and other people to share their experience with 2350+ Members and Counting..
 
 <a href="https://www.meetup.com/dataopslabs/" target="_blank">
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
